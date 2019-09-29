@@ -50,7 +50,7 @@ git clone <репозиторий>
 
 ## Версия
 
-Мы используем гит репозиторий, посмотреть можно метку [здесь](https://gitlab.rebrainme.com/andriyenko/rebrain-devops-task-checkout)
+Мы используем метки, посмотреть можно метку [здесь](https://gitlab.rebrainme.com/andriyenko/rebrain-devops-task-checkout)
 
 ## Автор
 
