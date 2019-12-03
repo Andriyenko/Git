@@ -83,13 +83,13 @@ git reflog
 git blame название файла
 ```
 
-## Тренажеры и рекомендации
-Статья на habr, как писать коммиты: [habr](https://habr.com/ru/post/416887/)
-Markdown - это легкий и простой в использовании синтаксис для стилизации: [Markdown](https://habr.com/ru/post/416887/)
-Темплейт шаблона md файла: [Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-Онлайн-сервис для генерации gitignore в разных ситуациях [gitignore](https://www.gitignore.io/)
-Визуализация слияния веток [Визуализация веток](https://learngitbranching.js.org)
-Безболезненное разрешение Merge конфликтов в [Git](https://habr.com/ru/post/323234/)
+## Полезное
+* Статья на habr, как писать коммиты: [habr](https://habr.com/ru/post/416887/)
+* Markdown - это легкий и простой в использовании синтаксис для стилизации: [Markdown](https://guides.github.com/features/mastering-markdown/)
+* Темплейт шаблона md файла: [Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* Онлайн-сервис для генерации gitignore в разных ситуациях [gitignore](https://www.gitignore.io/)
+* Визуализация слияния веток [Визуализация веток](https://learngitbranching.js.org)
+* Безболезненное разрешение Merge конфликтов в [Git](https://habr.com/ru/post/323234/)
 
 ## Оф. документация
 
